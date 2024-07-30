@@ -1,0 +1,1039 @@
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@5d5eb2d5]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@1e07d13f]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@5d5eb2d5]
+2024.07.30 17:02:35 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.[0m
+2024.07.30 17:02:37 INFO  no build target found for /home/aziz/LearnScalaNow/hello-world/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:02:36 INFO  no build target found for /home/aziz/LearnScalaNow/hello-world/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:03:08 INFO  running '/usr/lib/jvm/java-21-openjdk-amd64/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals7192254545935954056/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2024.07.30 17:03:09 ERROR [info] [launcher] getting org.scala-sbt sbt 1.10.1  (this may take some time)...[0m
+2024.07.30 17:04:16 ERROR [info] [launcher] getting Scala 2.12.19 (for sbt)...[0m
+2024.07.30 17:04:20 INFO  [info] welcome to sbt 1.10.1 (Ubuntu Java 21.0.3)[0m
+2024.07.30 17:04:28 INFO  [info] loading settings for project hello-world-build-build from metals.sbt ...[0m
+2024.07.30 17:04:30 INFO  [info] loading project definition from /home/aziz/LearnScalaNow/hello-world/project/project[0m
+2024.07.30 17:04:41 INFO  [info] loading settings for project hello-world-build from metals.sbt ...[0m
+2024.07.30 17:04:41 INFO  [info] loading project definition from /home/aziz/LearnScalaNow/hello-world/project[0m
+2024.07.30 17:04:58 INFO  Shutting down server[0m
+2024.07.30 17:04:58 INFO  shutting down Metals[0m
+2024.07.30 17:04:58 INFO  Exiting server[0m
+2024.07.30 17:45:04 INFO  Started: Metals version 1.3.4 in folders '/home/aziz/LearnScalaNow' for client Visual Studio Code 1.91.1.[0m
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@6f9bb241]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@42e36b13]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@6f9bb241]
+2024.07.30 17:45:04 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.[0m
+2024.07.30 17:45:06 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:45:07 WARN  scala-cli >= 0.1.3 not found in PATH, fetching and starting a JVM-based Scala CLI[0m
+2024.07.30 17:45:09 WARN  Could not find semantic tokens for: file:///home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 17:46:13 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:13 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:13 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:13 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:14 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:15 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+Jul 30, 2024 5:46:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18
+2024.07.30 17:46:14 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:15 WARN  Could not find semantic tokens for: file:///home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 17:46:17 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:17 WARN  Could not find semantic tokens for: file:///home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 17:46:18 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:18 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:19 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:19 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:19 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:19 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:21 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:21 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:22 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:36 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:36 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:36 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:36 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:36 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:37 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:37 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:37 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:37 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:37 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:37 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:38 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:38 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:38 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:38 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:38 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:38 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:38 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:38 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:39 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:40 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:40 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:40 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:40 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:39 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:41 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:41 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:43 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:43 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:43 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:44 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:44 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:44 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:44 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:44 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:45 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:47 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:47 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:47 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+Jul 30, 2024 5:46:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 138
+2024.07.30 17:46:47 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:47 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:50 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:50 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:50 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:50 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:50 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:51 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:52 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:52 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:52 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:52 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:52 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:53 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:53 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:53 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:53 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:53 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:53 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:55 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:55 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:55 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:55 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:55 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:56 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:56 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:56 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:57 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:56 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:57 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:56 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:56 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:57 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:58 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:58 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:58 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:58 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:46:59 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:00 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:00 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:00 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:00 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:00 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:00 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:01 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:01 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:01 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+Jul 30, 2024 5:47:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 248
+2024.07.30 17:47:01 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:01 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:02 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:01 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:04 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:04 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:05 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:05 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:05 ERROR Failed to tokenize input for semantic tokens for /home/aziz/LearnScalaNow/helloword.scala
+scala.meta.tokenizers.TokenizeException: <input>:3: error: unclosed string literal
+        println("Hello words\")
+                ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:509)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:361)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:561)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+[0m
+2024.07.30 17:47:05 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:06 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:07 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:07 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:09 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:09 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:14 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:14 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:14 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:14 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:16 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:16 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:16 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:16 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:16 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:17 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:18 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:18 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:18 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:19 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:19 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:20 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:20 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:21 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:20 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:21 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:20 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:21 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:22 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:22 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:22 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:24 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:24 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:24 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:24 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:26 WARN  no build target for: /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 17:47:26 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:47:26 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+Jul 30, 2024 5:47:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.07.30 17:48:30 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:48:30 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:48:39 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:48:45 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:48:46 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:48:48 WARN  no build target for: /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 17:48:48 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:48:48 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:49:28 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:49:28 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:49:28 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:49:29 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:49:31 WARN  no build target for: /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 17:49:31 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:49:31 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:51:51 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:51:51 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:51:51 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:51:53 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:51:53 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:51:53 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:51:53 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:51:53 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:51:53 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:51:54 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:51:55 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:51:55 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:51:55 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:51:57 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:51:57 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:51:59 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:51:59 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:51:59 WARN  no build target for: /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 17:51:59 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:51:59 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:52:00 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:52:02 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:52:47 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:52:48 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+Jul 30, 2024 5:52:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 457
+2024.07.30 17:52:48 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:52:48 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:52:48 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:52:48 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:52:49 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:52:49 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:52:49 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:52:49 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:52:49 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:52:49 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:52:50 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:52:49 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:52:50 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:52:50 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:52:50 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:52:50 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:52:52 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:52:52 WARN  no build target for: /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 17:52:52 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+Jul 30, 2024 5:52:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 492
+2024.07.30 17:52:55 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:53:14 INFO  Running List(/usr/lib/jvm/java-21-openjdk-amd64/bin/java, -cp, /home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/cli_3/1.4.1/cli_3-1.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/case-app_3/2.1.0-M28/case-app_3-2.1.0-M28.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-launcher_2.13/2.1.10/coursier-launcher_2.13-2.1.10.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-proxy-setup/2.1.10/coursier-proxy-setup-2.1.10.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/publish/publish_2.13/0.1.6/publish_2.13-0.1.6.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/jimfs/jimfs/1.3.0/jimfs-1.3.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/jniutils/windows-jni-utils/0.3.3/windows-jni-utils-0.3.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/plokhotnyuk/jsoniter-scala/jsoniter-scala-core_3/2.13.5.2/jsoniter-scala-core_3-2.13.5.2.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/libsodiumjni/0.0.4/libsodiumjni-0.0.4.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/geirsson/metaconfig-typesafe-config_3/0.12.0/metaconfig-typesafe-config_3-0.12.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/ai/kien/python-native-libs_3/0.2.4/python-native-libs_3-0.2.4.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-packager_2.13/0.1.29/scala-packager_2.13-0.1.29.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli-signing/cli_3/0.2.3/cli_3-0.2.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-nop/2.0.13/slf4j-nop-2.0.13.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/client3/core_2.13/3.9.7/core_2.13-3.9.7.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.3/scala3-library_3-3.3.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/build-module_3/1.4.1/build-module_3-1.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/config_3/1.4.1/config_3-1.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/scala3-graal_3/1.4.1/scala3-graal_3-1.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/specification-level_3/1.4.1/specification-level_3-1.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/sourcecode_3/0.4.2/sourcecode_3-0.4.2.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/case-app-annotations_3/2.1.0-M28/case-app-annotations_3-2.1.0-M28.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/case-app-util_3/2.1.0-M28/case-app-util_3-2.1.0-M28.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/scala-cli/tmp/zip-input-stream/0.1.1/zip-input-stream-0.1.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.14/scala-library-2.13.14.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-cache_2.13/2.1.10/coursier-cache_2.13-2.1.10.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-core_2.13/2.1.10/coursier-core_2.13-2.1.10.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/guava/guava/33.2.1-jre/guava-33.2.1-jre.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.14.0/jna-5.14.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna-platform/5.12.1/jna-platform-5.12.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/geirsson/metaconfig-core_3/0.12.0/metaconfig-core_3-0.12.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.1/config-1.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_3/2.12.0/scala-collection-compat_3-2.12.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/commons-io/commons-io/2.15.0/commons-io-2.15.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/cloud/tools/jib-core/0.22.0/jib-core-0.22.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/bouncycastle/bcpg-jdk18on/1.76/bcpg-jdk18on-1.76.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli-signing/shared_3/0.2.3/shared_3-0.2.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-api/2.0.13/slf4j-api-2.0.13.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/model/core_2.13/1.7.9/core_2.13-1.7.9.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/shared/core_2.13/1.3.16/core_2.13-1.3.16.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/shared/ws_2.13/1.3.16/ws_2.13-1.3.16.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/ow2/asm/asm/9.7/asm-9.7.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/java-class-name/java-class-name_3/0.1.3/java-class-name_3-0.1.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalameta/semanticdb-shared_2.13.14/4.9.8/semanticdb-shared_2.13.14-4.9.8.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-native/test-runner_3/0.5.4/test-runner_3-0.5.4.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/os-lib_3/0.10.2/os-lib_3-0.10.2.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/pprint_3/0.9.0/pprint_3-0.9.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-env-nodejs_2.13/1.4.0/scalajs-env-nodejs_2.13-1.4.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-sbt-test-adapter_2.13/1.16.0/scalajs-sbt-test-adapter_2.13-1.16.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/swoval/file-tree-views/2.1.12/file-tree-views-2.1.12.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/zip-input-stream/zip-input-stream/0.1.2/zip-input-stream-0.1.2.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/options_3/1.4.1/options_3-1.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/directives_3/1.4.1/directives_3-1.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/scala-cli-bsp/1.4.1/scala-cli-bsp-1.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/test-runner_3/1.4.1/test-runner_3-1.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/tasty-lib_3/1.4.1/tasty-lib_3-1.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-archiver/4.9.0/plexus-archiver-4.9.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-container-default/2.1.1/plexus-container-default-2.1.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/windows-ansi/windows-ansi/0.0.5/windows-ansi-0.0.5.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-util_2.13/2.1.10/coursier-util_2.13-2.1.10.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/concurrent-reference-hash-map/1.1.0/concurrent-reference-hash-map-1.1.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.13/2.3.0/scala-xml_2.13-2.3.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/errorprone/error_prone_annotations/2.26.1/error_prone_annotations-2.26.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/j2objc/j2objc-annotations/3.0.0/j2objc-annotations-3.0.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/geirsson/metaconfig-pprint_3/0.12.0/metaconfig-pprint_3-0.12.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/paiges-core_3/0.4.3/paiges-core_3-0.4.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.14/scala-reflect-2.13.14.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/cloud/tools/jib-build-plan/0.4.0/jib-build-plan-0.4.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/http-client/google-http-client/1.34.0/google-http-client-1.34.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/http-client/google-http-client-apache-v2/1.34.0/google-http-client-apache-v2-1.34.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/auth/google-auth-library-oauth2-http/0.18.0/google-auth-library-oauth2-http-0.18.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/commons/commons-compress/1.24.0/commons-compress-1.24.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.13.3/jackson-databind-2.13.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.13.3/jackson-datatype-jsr310-2.13.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/bouncycastle/bcprov-jdk18on/1.76/bcprov-jdk18on-1.76.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.3.1/scala3-compiler_3-3.3.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.9.8/scalameta_2.13-4.9.8.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/thesamet/scalapb/scalapb-runtime_2.13/0.11.17/scalapb-runtime_2.13-0.11.17.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-native/tools_3/0.5.4/tools_3-0.5.4.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/sbt/junit-interface/0.13.3/junit-interface-0.13.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/junit/junit/4.13.2/junit-4.13.2.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/geny_3/1.1.0/geny_3-1.1.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/fansi_3/0.5.0/fansi_3-0.5.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-js-envs_2.13/1.4.0/scalajs-js-envs_2.13-1.4.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/bloop-config_2.13/2.0.2/bloop-config_2.13-2.0.2.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/core_3/1.4.1/core_3-1.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/using_directives/1.1.1/using_directives-1.1.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/build-macros_3/1.4.1/build-macros_3-1.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/bsp4j/2.1.1/bsp4j-2.1.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/javax/inject/javax.inject/1/javax.inject-1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/4.0.0/plexus-utils-4.0.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-io/3.4.1/plexus-io-3.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/iq80/snappy/snappy/0.4/snappy-0.4.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/tukaani/xz/1.9/xz-1.9.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/luben/zstd-jni/1.5.5-10/zstd-jni-1.5.5-10.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-classworlds/2.6.0/plexus-classworlds-2.6.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/xbean/xbean-reflect/3.7/xbean-reflect-3.7.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.18/jansi-1.18.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/httpcomponents/httpclient/4.5.10/httpclient-4.5.10.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/httpcomponents/httpcore/4.4.12/httpcore-4.4.12.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/opencensus/opencensus-api/0.24.0/opencensus-api-0.24.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/opencensus/opencensus-contrib-http-util/0.24.0/opencensus-contrib-http-util-0.24.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/auto/value/auto-value-annotations/1.6.6/auto-value-annotations-1.6.6.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/auth/google-auth-library-credentials/0.18.0/google-auth-library-credentials-0.18.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/http-client/google-http-client-jackson2/1.32.1/google-http-client-jackson2-1.32.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.13.3/jackson-annotations-2.13.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.13.3/jackson-core-2.13.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-interfaces/3.3.1/scala3-interfaces-3.3.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/tasty-core_3/3.3.1/tasty-core_3-3.3.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-asm/9.5.0-scala-1/scala-asm-9.5.0-scala-1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/compiler-interface/1.3.5/compiler-interface-1.3.5.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-reader/3.19.0/jline-reader-3.19.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal/3.19.0/jline-terminal-3.19.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal-jna/3.19.0/jline-terminal-jna-3.19.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.9.8/parsers_2.13-4.9.8.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scalap/2.13.14/scalap-2.13.14.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/thesamet/scalapb/lenses_2.13/0.11.17/lenses_2.13-0.11.17.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/protobuf/protobuf-java/3.19.6/protobuf-java-3.19.6.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.12.0/scala-collection-compat_2.13-2.12.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-native/nir_3/0.5.4/nir_3-0.5.4.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-native/util_3/0.5.4/util_3-0.5.4.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-logging_2.13/1.1.1/scalajs-logging_2.13-1.1.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/unroll-annotation_2.13/0.1.12/unroll-annotation_2.13-0.1.12.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/bleep/bloop-rifle_2.13/1.5.17-sc-2/bloop-rifle_2.13-1.5.17-sc-2.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-jvm_2.13/2.1.10/coursier-jvm_2.13-2.1.10.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/dependency_3/0.2.3/dependency_3-0.2.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/eclipse/jgit/org.eclipse.jgit/6.8.0.202311291450-r/org.eclipse.jgit-6.8.0.202311291450-r.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-env-jsdom-nodejs_2.13/1.1.0/scalajs-env-jsdom-nodejs_2.13-1.1.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/eclipse/lsp4j/org.eclipse.lsp4j.generator/0.20.1/org.eclipse.lsp4j.generator-0.20.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/eclipse/lsp4j/org.eclipse.lsp4j.jsonrpc/0.20.1/org.eclipse.lsp4j.jsonrpc-0.20.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/commons-codec/commons-codec/1.16.0/commons-codec-1.16.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/grpc/grpc-context/1.22.1/grpc-context-1.22.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-interface/1.3.0/util-interface-1.3.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalameta/trees_2.13/4.9.8/trees_2.13-4.9.8.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.14/scala-compiler-2.13.14.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/libdaemon/libdaemon_2.13/0.0.11/libdaemon_2.13-0.0.11.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/scala-cli/snailgun/snailgun-core_2.13/0.4.1-sc2/snailgun-core_2.13-0.4.1-sc2.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/argonaut-shapeless_6.3_2.13/1.3.1/argonaut-shapeless_6.3_2.13-1.3.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier_2.13/2.1.10/coursier_2.13-2.1.10.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-env_2.13/2.1.10/coursier-env_2.13-2.1.10.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/googlecode/javaewah/JavaEWAH/1.2.3/JavaEWAH-1.2.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/eclipse/xtend/org.eclipse.xtend.lib/2.28.0/org.eclipse.xtend.lib-2.28.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalameta/common_2.13/4.9.8/common_2.13-4.9.8.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/github/java-diff-utils/java-diff-utils/4.12/java-diff-utils-4.12.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/argonaut/argonaut_2.13/6.3.8/argonaut_2.13-6.3.8.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/chuusai/shapeless_2.13/2.3.9/shapeless_2.13-2.3.9.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/eclipse/xtext/org.eclipse.xtext.xbase.lib/2.28.0/org.eclipse.xtext.xbase.lib-2.28.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/eclipse/xtend/org.eclipse.xtend.lib.macro/2.28.0/org.eclipse.xtend.lib.macro-2.28.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.13/0.4.2/sourcecode_2.13-0.4.2.jar, scala.cli.ScalaCli, bsp, /home/aziz/LearnScalaNow)[0m
+2024.07.30 17:53:14 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/aziz/LearnScalaNow/.metals/bsp.trace.json or /home/aziz/.cache/metals/bsp.trace.json[0m
+2024.07.30 17:53:20 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/bloop-frontend_2.12/1.5.17-sc-2/bloop-frontend_2.12-1.5.17-sc-2.pom[0m
+2024.07.30 17:53:22 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/bloop-frontend_2.12/1.5.17-sc-2/bloop-frontend_2.12-1.5.17-sc-2.pom[0m
+2024.07.30 17:53:22 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-config_2.12/2.0.0/bloop-config_2.12-2.0.0.pom[0m
+2024.07.30 17:53:22 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/bloop-backend_2.12/1.5.17-sc-2/bloop-backend_2.12-1.5.17-sc-2.pom[0m
+2024.07.30 17:53:22 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.4.14/logback-classic-1.4.14.pom[0m
+2024.07.30 17:53:22 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/scala-debug-adapter_2.12/4.1.1/scala-debug-adapter_2.12-4.1.1.pom[0m
+2024.07.30 17:53:22 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/io/github/alexarchambault/libdaemon/libdaemon_2.12/0.0.11/libdaemon_2.12-0.0.11.pom[0m
+2024.07.30 17:53:22 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-config_2.12/2.0.0/bloop-config_2.12-2.0.0.pom[0m
+2024.07.30 17:53:22 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.4.14/logback-classic-1.4.14.pom[0m
+2024.07.30 17:53:22 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/io/github/alexarchambault/libdaemon/libdaemon_2.12/0.0.11/libdaemon_2.12-0.0.11.pom[0m
+2024.07.30 17:53:22 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/scala-debug-adapter_2.12/4.1.1/scala-debug-adapter_2.12-4.1.1.pom[0m
+2024.07.30 17:53:22 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/bloop-backend_2.12/1.5.17-sc-2/bloop-backend_2.12-1.5.17-sc-2.pom[0m
+2024.07.30 17:53:23 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/ch/qos/logback/logback-parent/1.4.14/logback-parent-1.4.14.pom[0m
+2024.07.30 17:53:25 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/ch/qos/logback/logback-parent/1.4.14/logback-parent-1.4.14.pom[0m
+2024.07.30 17:53:25 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/nailgun-server/1.0.7/nailgun-server-1.0.7.pom[0m
+2024.07.30 17:53:25 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/com-microsoft-java-debug-core/0.34.0+30/com-microsoft-java-debug-core-0.34.0+30.pom[0m
+2024.07.30 17:53:25 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.4.14/logback-core-1.4.14.pom[0m
+2024.07.30 17:53:25 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/bloop-shared_2.12/1.5.17-sc-2/bloop-shared_2.12-1.5.17-sc-2.pom[0m
+2024.07.30 17:53:25 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scalameta/parsers_2.12/4.9.5/parsers_2.12-4.9.5.pom[0m
+2024.07.30 17:53:25 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-sbt/test-agent/1.10.0/test-agent-1.10.0.pom[0m
+2024.07.30 17:53:25 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/com-microsoft-java-debug-core/0.34.0+30/com-microsoft-java-debug-core-0.34.0+30.pom[0m
+2024.07.30 17:53:25 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/nailgun-server/1.0.7/nailgun-server-1.0.7.pom[0m
+2024.07.30 17:53:25 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-ivy_2.12/1.10.0/librarymanagement-ivy_2.12-1.10.0.pom[0m
+2024.07.30 17:53:25 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scalameta/parsers_2.12/4.9.5/parsers_2.12-4.9.5.pom[0m
+2024.07.30 17:53:25 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.4.14/logback-core-1.4.14.pom[0m
+2024.07.30 17:53:25 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/bloop-shared_2.12/1.5.17-sc-2/bloop-shared_2.12-1.5.17-sc-2.pom[0m
+2024.07.30 17:53:25 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.12/0.4.1/sourcecode_2.12-0.4.1.pom[0m
+2024.07.30 17:53:26 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-ivy_2.12/1.10.0/librarymanagement-ivy_2.12-1.10.0.pom[0m
+2024.07.30 17:53:26 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.12/0.4.1/sourcecode_2.12-0.4.1.pom[0m
+2024.07.30 17:53:26 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/test-agent/1.10.0/test-agent-1.10.0.pom[0m
+2024.07.30 17:53:26 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scalameta/trees_2.12/4.9.5/trees_2.12-4.9.5.pom[0m
+2024.07.30 17:53:26 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.4.0/jna-platform-4.4.0.pom[0m
+2024.07.30 17:53:26 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/io/get-coursier/interface/1.0.13/interface-1.0.13.pom[0m
+2024.07.30 17:53:26 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc_2.12/1.10.0/zinc_2.12-1.10.0.pom[0m
+2024.07.30 17:53:26 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-core_2.12/1.10.0/librarymanagement-core_2.12-1.10.0.pom[0m
+2024.07.30 17:53:26 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/jsonrpc4s_2.12/0.1.1/jsonrpc4s_2.12-0.1.1.pom[0m
+2024.07.30 17:53:26 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/io/get-coursier/interface/1.0.13/interface-1.0.13.pom[0m
+2024.07.30 17:53:26 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.4.0/jna-platform-4.4.0.pom[0m
+2024.07.30 17:53:26 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.5.2/jna-4.5.2.pom[0m
+2024.07.30 17:53:26 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scalameta/trees_2.12/4.9.5/trees_2.12-4.9.5.pom[0m
+2024.07.30 17:53:26 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc_2.12/1.10.0/zinc_2.12-1.10.0.pom[0m
+2024.07.30 17:53:26 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-core_2.12/1.10.0/librarymanagement-core_2.12-1.10.0.pom[0m
+2024.07.30 17:53:26 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.5.2/jna-4.5.2.pom[0m
+2024.07.30 17:53:27 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/jsonrpc4s_2.12/0.1.1/jsonrpc4s_2.12-0.1.1.pom[0m
+2024.07.30 17:53:27 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-classfile_2.12/1.10.0/zinc-classfile_2.12-1.10.0.pom[0m
+2024.07.30 17:53:27 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-core_2.12/1.10.0/zinc-core_2.12-1.10.0.pom[0m
+2024.07.30 17:53:27 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-persist_2.12/1.10.0/zinc-persist_2.12-1.10.0.pom[0m
+2024.07.30 17:53:27 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-compile-core_2.12/1.10.0/zinc-compile-core_2.12-1.10.0.pom[0m
+2024.07.30 17:53:27 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scalameta/common_2.12/4.9.5/common_2.12-4.9.5.pom[0m
+2024.07.30 17:53:27 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-sbt/launcher-interface/1.0.0/launcher-interface-1.0.0.pom[0m
+2024.07.30 17:53:28 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-core_2.12/1.10.0/zinc-core_2.12-1.10.0.pom[0m
+2024.07.30 17:53:28 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/com/github/plokhotnyuk/jsoniter-scala/jsoniter-scala-core_2.12/2.13.5/jsoniter-scala-core_2.12-2.13.5.pom[0m
+2024.07.30 17:53:28 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-compile-core_2.12/1.10.0/zinc-compile-core_2.12-1.10.0.pom[0m
+2024.07.30 17:53:28 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/launcher-interface/1.0.0/launcher-interface-1.0.0.pom[0m
+2024.07.30 17:53:28 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scalameta/common_2.12/4.9.5/common_2.12-4.9.5.pom[0m
+2024.07.30 17:53:28 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-classfile_2.12/1.10.0/zinc-classfile_2.12-1.10.0.pom[0m
+2024.07.30 17:53:28 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/com/github/plokhotnyuk/jsoniter-scala/jsoniter-scala-core_2.12/2.13.5/jsoniter-scala-core_2.12-2.13.5.pom[0m
+2024.07.30 17:53:29 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-persist_2.12/1.10.0/zinc-persist_2.12-1.10.0.pom[0m
+2024.07.30 17:53:29 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-classpath_2.12/1.10.0/zinc-classpath_2.12-1.10.0.pom[0m
+2024.07.30 17:53:29 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-sbt/compiler-interface/1.10.0/compiler-interface-1.10.0.pom[0m
+2024.07.30 17:53:29 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-apiinfo_2.12/1.10.0/zinc-apiinfo_2.12-1.10.0.pom[0m
+2024.07.30 17:53:29 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/com/thesamet/scalapb/scalapb-runtime_2.12/0.11.15/scalapb-runtime_2.12-0.11.15.pom[0m
+2024.07.30 17:53:29 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-persist-core-assembly/1.10.0/zinc-persist-core-assembly-1.10.0.pom[0m
+2024.07.30 17:53:29 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-classpath_2.12/1.10.0/zinc-classpath_2.12-1.10.0.pom[0m
+2024.07.30 17:53:29 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-persist-core-assembly/1.10.0/zinc-persist-core-assembly-1.10.0.pom[0m
+2024.07.30 17:53:29 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/compiler-interface/1.10.0/compiler-interface-1.10.0.pom[0m
+2024.07.30 17:53:29 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-apiinfo_2.12/1.10.0/zinc-apiinfo_2.12-1.10.0.pom[0m
+2024.07.30 17:53:29 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/com/thesamet/scalapb/scalapb-runtime_2.12/0.11.15/scalapb-runtime_2.12-0.11.15.pom[0m
+2024.07.30 17:53:29 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-sbt/compiler-bridge_2.12/1.10.0/compiler-bridge_2.12-1.10.0.pom[0m
+2024.07.30 17:53:29 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/com/thesamet/scalapb/lenses_2.12/0.11.15/lenses_2.12-0.11.15.pom[0m
+2024.07.30 17:53:29 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/com/thesamet/scalapb/lenses_2.12/0.11.15/lenses_2.12-0.11.15.pom[0m
+2024.07.30 17:53:29 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/compiler-bridge_2.12/1.10.0/compiler-bridge_2.12-1.10.0.pom[0m
+2024.07.30 17:53:29 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/com-microsoft-java-debug-core/0.34.0+30/com-microsoft-java-debug-core-0.34.0+30.jar[0m
+2024.07.30 17:53:29 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-config_2.12/2.0.0/bloop-config_2.12-2.0.0.jar[0m
+2024.07.30 17:53:29 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/bloop-frontend_2.12/1.5.17-sc-2/bloop-frontend_2.12-1.5.17-sc-2.jar[0m
+2024.07.30 17:53:29 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/bloop-backend_2.12/1.5.17-sc-2/bloop-backend_2.12-1.5.17-sc-2.jar[0m
+2024.07.30 17:53:29 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc_2.12/1.10.0/zinc_2.12-1.10.0.jar[0m
+2024.07.30 17:53:29 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-sbt/test-agent/1.10.0/test-agent-1.10.0.jar[0m
+2024.07.30 17:53:31 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc_2.12/1.10.0/zinc_2.12-1.10.0.jar[0m
+2024.07.30 17:53:31 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scalaz/scalaz-core_2.12/7.3.8/scalaz-core_2.12-7.3.8.jar[0m
+2024.07.30 17:53:31 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-config_2.12/2.0.0/bloop-config_2.12-2.0.0.jar[0m
+2024.07.30 17:53:31 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-sbt/compiler-bridge_2.12/1.10.0/compiler-bridge_2.12-1.10.0.jar[0m
+2024.07.30 17:53:34 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/compiler-bridge_2.12/1.10.0/compiler-bridge_2.12-1.10.0.jar[0m
+2024.07.30 17:53:34 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scalameta/parsers_2.12/4.9.5/parsers_2.12-4.9.5.jar[0m
+2024.07.30 17:53:34 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/test-agent/1.10.0/test-agent-1.10.0.jar[0m
+2024.07.30 17:53:34 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/com/chuusai/shapeless_2.12/2.3.3/shapeless_2.12-2.3.3.jar[0m
+2024.07.30 17:53:39 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/com-microsoft-java-debug-core/0.34.0+30/com-microsoft-java-debug-core-0.34.0+30.jar[0m
+2024.07.30 17:53:39 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-core_2.12/1.10.0/librarymanagement-core_2.12-1.10.0.jar[0m
+2024.07.30 17:53:47 INFO  Scala CLI: Still downloading:[0m
+2024.07.30 17:53:47 INFO  Scala CLI: https://repo1.maven.org/maven2/com/chuusai/shapeless_2.12/2.3.3/shapeless_2.12-2.3.3.jar (89.54 %, 2904180 / 3243337)[0m
+2024.07.30 17:53:47 INFO  Scala CLI: https://repo1.maven.org/maven2/org/scalameta/parsers_2.12/4.9.5/parsers_2.12-4.9.5.jar (23.56 %, 212992 / 903929)[0m
+2024.07.30 17:53:47 INFO  Scala CLI: https://repo1.maven.org/maven2/org/scalaz/scalaz-core_2.12/7.3.8/scalaz-core_2.12-7.3.8.jar (23.50 %, 2310144 / 9831106)[0m
+2024.07.30 17:53:47 INFO  Scala CLI: https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/bloop-backend_2.12/1.5.17-sc-2/bloop-backend_2.12-1.5.17-sc-2.jar (19.29 %, 132612 / 687342)[0m
+2024.07.30 17:53:47 INFO  Scala CLI: https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/bloop-frontend_2.12/1.5.17-sc-2/bloop-frontend_2.12-1.5.17-sc-2.jar (14.29 %, 216016 / 1511965)[0m
+2024.07.30 17:53:47 INFO  Scala CLI: https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-core_2.12/1.10.0/librarymanagement-core_2.12-1.10.0.jar (9.73 %, 81920 / 841692)[0m
+2024.07.30 17:53:47 INFO  Scala CLI: [0m
+2024.07.30 17:53:47 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-core_2.12/1.10.0/librarymanagement-core_2.12-1.10.0.jar[0m
+2024.07.30 17:53:47 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-apiinfo_2.12/1.10.0/zinc-apiinfo_2.12-1.10.0.jar[0m
+2024.07.30 17:53:50 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-apiinfo_2.12/1.10.0/zinc-apiinfo_2.12-1.10.0.jar[0m
+2024.07.30 17:53:50 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/com/github/plokhotnyuk/jsoniter-scala/jsoniter-scala-core_2.12/2.13.5/jsoniter-scala-core_2.12-2.13.5.jar[0m
+2024.07.30 17:53:50 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/com/github/plokhotnyuk/jsoniter-scala/jsoniter-scala-core_2.12/2.13.5/jsoniter-scala-core_2.12-2.13.5.jar[0m
+2024.07.30 17:53:50 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-persist_2.12/1.10.0/zinc-persist_2.12-1.10.0.jar[0m
+2024.07.30 17:53:50 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scalameta/parsers_2.12/4.9.5/parsers_2.12-4.9.5.jar[0m
+2024.07.30 17:53:50 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-persist-core-assembly/1.10.0/zinc-persist-core-assembly-1.10.0.jar[0m
+2024.07.30 17:53:50 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-persist_2.12/1.10.0/zinc-persist_2.12-1.10.0.jar[0m
+2024.07.30 17:53:50 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-classfile_2.12/1.10.0/zinc-classfile_2.12-1.10.0.jar[0m
+2024.07.30 17:53:51 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-classfile_2.12/1.10.0/zinc-classfile_2.12-1.10.0.jar[0m
+2024.07.30 17:53:51 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-compile-core_2.12/1.10.0/zinc-compile-core_2.12-1.10.0.jar[0m
+2024.07.30 17:53:51 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-compile-core_2.12/1.10.0/zinc-compile-core_2.12-1.10.0.jar[0m
+2024.07.30 17:53:51 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-core_2.12/1.10.0/zinc-core_2.12-1.10.0.jar[0m
+2024.07.30 17:53:51 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/bloop-frontend_2.12/1.5.17-sc-2/bloop-frontend_2.12-1.5.17-sc-2.jar[0m
+2024.07.30 17:53:51 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scalameta/trees_2.12/4.9.5/trees_2.12-4.9.5.jar[0m
+2024.07.30 17:53:55 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-core_2.12/1.10.0/zinc-core_2.12-1.10.0.jar[0m
+2024.07.30 17:53:55 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-ivy_2.12/1.10.0/librarymanagement-ivy_2.12-1.10.0.jar[0m
+2024.07.30 17:53:58 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-ivy_2.12/1.10.0/librarymanagement-ivy_2.12-1.10.0.jar[0m
+2024.07.30 17:53:58 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/nailgun-server/1.0.7/nailgun-server-1.0.7.jar[0m
+2024.07.30 17:54:00 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/nailgun-server/1.0.7/nailgun-server-1.0.7.jar[0m
+2024.07.30 17:54:00 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.4.14/logback-core-1.4.14.jar[0m
+2024.07.30 17:54:03 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:54:04 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:54:04 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:54:04 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:54:05 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:54:05 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/com/chuusai/shapeless_2.12/2.3.3/shapeless_2.12-2.3.3.jar[0m
+2024.07.30 17:54:05 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/io/get-coursier/interface/1.0.13/interface-1.0.13.jar[0m
+2024.07.30 17:54:06 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:54:06 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:54:08 WARN  no build target for: /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 17:54:08 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:54:08 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:54:11 INFO  Scala CLI: Still downloading:[0m
+2024.07.30 17:54:11 INFO  Scala CLI: https://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.4.14/logback-core-1.4.14.jar (84.72 %, 505994 / 597229)[0m
+2024.07.30 17:54:11 INFO  Scala CLI: https://repo1.maven.org/maven2/org/scala-sbt/zinc-persist-core-assembly/1.10.0/zinc-persist-core-assembly-1.10.0.jar (84.32 %, 2392064 / 2836829)[0m
+2024.07.30 17:54:11 INFO  Scala CLI: https://repo1.maven.org/maven2/org/scalaz/scalaz-core_2.12/7.3.8/scalaz-core_2.12-7.3.8.jar (73.83 %, 7258112 / 9831106)[0m
+2024.07.30 17:54:11 INFO  Scala CLI: https://repo1.maven.org/maven2/org/scalameta/trees_2.12/4.9.5/trees_2.12-4.9.5.jar (30.85 %, 2785280 / 9028627)[0m
+2024.07.30 17:54:11 INFO  Scala CLI: https://repo1.maven.org/maven2/io/get-coursier/interface/1.0.13/interface-1.0.13.jar (25.32 %, 2588672 / 10225728)[0m
+2024.07.30 17:54:11 INFO  Scala CLI: https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/bloop-backend_2.12/1.5.17-sc-2/bloop-backend_2.12-1.5.17-sc-2.jar (21.68 %, 148996 / 687342)[0m
+2024.07.30 17:54:11 INFO  Scala CLI: [0m
+2024.07.30 17:54:15 ERROR Timeout waiting for 'build/initialize' response[0m
+2024.07.30 17:54:15 WARN  Retrying connection to the build server Scala CLI[0m
+2024.07.30 17:54:15 INFO  Running List(/usr/lib/jvm/java-21-openjdk-amd64/bin/java, -cp, /home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/cli_3/1.4.1/cli_3-1.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/case-app_3/2.1.0-M28/case-app_3-2.1.0-M28.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-launcher_2.13/2.1.10/coursier-launcher_2.13-2.1.10.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-proxy-setup/2.1.10/coursier-proxy-setup-2.1.10.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/publish/publish_2.13/0.1.6/publish_2.13-0.1.6.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/jimfs/jimfs/1.3.0/jimfs-1.3.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/jniutils/windows-jni-utils/0.3.3/windows-jni-utils-0.3.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/plokhotnyuk/jsoniter-scala/jsoniter-scala-core_3/2.13.5.2/jsoniter-scala-core_3-2.13.5.2.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/libsodiumjni/0.0.4/libsodiumjni-0.0.4.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/geirsson/metaconfig-typesafe-config_3/0.12.0/metaconfig-typesafe-config_3-0.12.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/ai/kien/python-native-libs_3/0.2.4/python-native-libs_3-0.2.4.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-packager_2.13/0.1.29/scala-packager_2.13-0.1.29.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli-signing/cli_3/0.2.3/cli_3-0.2.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-nop/2.0.13/slf4j-nop-2.0.13.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/client3/core_2.13/3.9.7/core_2.13-3.9.7.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.3/scala3-library_3-3.3.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/build-module_3/1.4.1/build-module_3-1.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/config_3/1.4.1/config_3-1.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/scala3-graal_3/1.4.1/scala3-graal_3-1.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/specification-level_3/1.4.1/specification-level_3-1.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/sourcecode_3/0.4.2/sourcecode_3-0.4.2.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/case-app-annotations_3/2.1.0-M28/case-app-annotations_3-2.1.0-M28.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/case-app-util_3/2.1.0-M28/case-app-util_3-2.1.0-M28.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/scala-cli/tmp/zip-input-stream/0.1.1/zip-input-stream-0.1.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.14/scala-library-2.13.14.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-cache_2.13/2.1.10/coursier-cache_2.13-2.1.10.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-core_2.13/2.1.10/coursier-core_2.13-2.1.10.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/guava/guava/33.2.1-jre/guava-33.2.1-jre.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.14.0/jna-5.14.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna-platform/5.12.1/jna-platform-5.12.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/geirsson/metaconfig-core_3/0.12.0/metaconfig-core_3-0.12.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.1/config-1.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_3/2.12.0/scala-collection-compat_3-2.12.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/commons-io/commons-io/2.15.0/commons-io-2.15.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/cloud/tools/jib-core/0.22.0/jib-core-0.22.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/bouncycastle/bcpg-jdk18on/1.76/bcpg-jdk18on-1.76.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli-signing/shared_3/0.2.3/shared_3-0.2.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-api/2.0.13/slf4j-api-2.0.13.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/model/core_2.13/1.7.9/core_2.13-1.7.9.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/shared/core_2.13/1.3.16/core_2.13-1.3.16.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/shared/ws_2.13/1.3.16/ws_2.13-1.3.16.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/ow2/asm/asm/9.7/asm-9.7.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/java-class-name/java-class-name_3/0.1.3/java-class-name_3-0.1.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalameta/semanticdb-shared_2.13.14/4.9.8/semanticdb-shared_2.13.14-4.9.8.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-native/test-runner_3/0.5.4/test-runner_3-0.5.4.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/os-lib_3/0.10.2/os-lib_3-0.10.2.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/pprint_3/0.9.0/pprint_3-0.9.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-env-nodejs_2.13/1.4.0/scalajs-env-nodejs_2.13-1.4.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-sbt-test-adapter_2.13/1.16.0/scalajs-sbt-test-adapter_2.13-1.16.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/swoval/file-tree-views/2.1.12/file-tree-views-2.1.12.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/zip-input-stream/zip-input-stream/0.1.2/zip-input-stream-0.1.2.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/options_3/1.4.1/options_3-1.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/directives_3/1.4.1/directives_3-1.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/scala-cli-bsp/1.4.1/scala-cli-bsp-1.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/test-runner_3/1.4.1/test-runner_3-1.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/tasty-lib_3/1.4.1/tasty-lib_3-1.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-archiver/4.9.0/plexus-archiver-4.9.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-container-default/2.1.1/plexus-container-default-2.1.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/windows-ansi/windows-ansi/0.0.5/windows-ansi-0.0.5.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-util_2.13/2.1.10/coursier-util_2.13-2.1.10.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/concurrent-reference-hash-map/1.1.0/concurrent-reference-hash-map-1.1.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.13/2.3.0/scala-xml_2.13-2.3.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/errorprone/error_prone_annotations/2.26.1/error_prone_annotations-2.26.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/j2objc/j2objc-annotations/3.0.0/j2objc-annotations-3.0.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/geirsson/metaconfig-pprint_3/0.12.0/metaconfig-pprint_3-0.12.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/paiges-core_3/0.4.3/paiges-core_3-0.4.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.14/scala-reflect-2.13.14.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/cloud/tools/jib-build-plan/0.4.0/jib-build-plan-0.4.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/http-client/google-http-client/1.34.0/google-http-client-1.34.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/http-client/google-http-client-apache-v2/1.34.0/google-http-client-apache-v2-1.34.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/auth/google-auth-library-oauth2-http/0.18.0/google-auth-library-oauth2-http-0.18.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/commons/commons-compress/1.24.0/commons-compress-1.24.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.13.3/jackson-databind-2.13.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.13.3/jackson-datatype-jsr310-2.13.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/bouncycastle/bcprov-jdk18on/1.76/bcprov-jdk18on-1.76.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.3.1/scala3-compiler_3-3.3.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.9.8/scalameta_2.13-4.9.8.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/thesamet/scalapb/scalapb-runtime_2.13/0.11.17/scalapb-runtime_2.13-0.11.17.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-native/tools_3/0.5.4/tools_3-0.5.4.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/sbt/junit-interface/0.13.3/junit-interface-0.13.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/junit/junit/4.13.2/junit-4.13.2.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/geny_3/1.1.0/geny_3-1.1.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/fansi_3/0.5.0/fansi_3-0.5.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-js-envs_2.13/1.4.0/scalajs-js-envs_2.13-1.4.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/bloop-config_2.13/2.0.2/bloop-config_2.13-2.0.2.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/core_3/1.4.1/core_3-1.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/using_directives/1.1.1/using_directives-1.1.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/build-macros_3/1.4.1/build-macros_3-1.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/bsp4j/2.1.1/bsp4j-2.1.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/javax/inject/javax.inject/1/javax.inject-1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/4.0.0/plexus-utils-4.0.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-io/3.4.1/plexus-io-3.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/iq80/snappy/snappy/0.4/snappy-0.4.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/tukaani/xz/1.9/xz-1.9.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/luben/zstd-jni/1.5.5-10/zstd-jni-1.5.5-10.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-classworlds/2.6.0/plexus-classworlds-2.6.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/xbean/xbean-reflect/3.7/xbean-reflect-3.7.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.18/jansi-1.18.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/httpcomponents/httpclient/4.5.10/httpclient-4.5.10.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/httpcomponents/httpcore/4.4.12/httpcore-4.4.12.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/opencensus/opencensus-api/0.24.0/opencensus-api-0.24.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/opencensus/opencensus-contrib-http-util/0.24.0/opencensus-contrib-http-util-0.24.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/auto/value/auto-value-annotations/1.6.6/auto-value-annotations-1.6.6.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/auth/google-auth-library-credentials/0.18.0/google-auth-library-credentials-0.18.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/http-client/google-http-client-jackson2/1.32.1/google-http-client-jackson2-1.32.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.13.3/jackson-annotations-2.13.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.13.3/jackson-core-2.13.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-interfaces/3.3.1/scala3-interfaces-3.3.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/tasty-core_3/3.3.1/tasty-core_3-3.3.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-asm/9.5.0-scala-1/scala-asm-9.5.0-scala-1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/compiler-interface/1.3.5/compiler-interface-1.3.5.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-reader/3.19.0/jline-reader-3.19.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal/3.19.0/jline-terminal-3.19.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal-jna/3.19.0/jline-terminal-jna-3.19.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.9.8/parsers_2.13-4.9.8.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scalap/2.13.14/scalap-2.13.14.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/thesamet/scalapb/lenses_2.13/0.11.17/lenses_2.13-0.11.17.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/protobuf/protobuf-java/3.19.6/protobuf-java-3.19.6.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.12.0/scala-collection-compat_2.13-2.12.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-native/nir_3/0.5.4/nir_3-0.5.4.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-native/util_3/0.5.4/util_3-0.5.4.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-logging_2.13/1.1.1/scalajs-logging_2.13-1.1.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/unroll-annotation_2.13/0.1.12/unroll-annotation_2.13-0.1.12.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/bleep/bloop-rifle_2.13/1.5.17-sc-2/bloop-rifle_2.13-1.5.17-sc-2.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-jvm_2.13/2.1.10/coursier-jvm_2.13-2.1.10.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/dependency_3/0.2.3/dependency_3-0.2.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/eclipse/jgit/org.eclipse.jgit/6.8.0.202311291450-r/org.eclipse.jgit-6.8.0.202311291450-r.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-env-jsdom-nodejs_2.13/1.1.0/scalajs-env-jsdom-nodejs_2.13-1.1.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/eclipse/lsp4j/org.eclipse.lsp4j.generator/0.20.1/org.eclipse.lsp4j.generator-0.20.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/eclipse/lsp4j/org.eclipse.lsp4j.jsonrpc/0.20.1/org.eclipse.lsp4j.jsonrpc-0.20.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/commons-codec/commons-codec/1.16.0/commons-codec-1.16.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/grpc/grpc-context/1.22.1/grpc-context-1.22.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-interface/1.3.0/util-interface-1.3.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalameta/trees_2.13/4.9.8/trees_2.13-4.9.8.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.14/scala-compiler-2.13.14.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/libdaemon/libdaemon_2.13/0.0.11/libdaemon_2.13-0.0.11.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/scala-cli/snailgun/snailgun-core_2.13/0.4.1-sc2/snailgun-core_2.13-0.4.1-sc2.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/argonaut-shapeless_6.3_2.13/1.3.1/argonaut-shapeless_6.3_2.13-1.3.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier_2.13/2.1.10/coursier_2.13-2.1.10.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-env_2.13/2.1.10/coursier-env_2.13-2.1.10.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/googlecode/javaewah/JavaEWAH/1.2.3/JavaEWAH-1.2.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/eclipse/xtend/org.eclipse.xtend.lib/2.28.0/org.eclipse.xtend.lib-2.28.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalameta/common_2.13/4.9.8/common_2.13-4.9.8.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/github/java-diff-utils/java-diff-utils/4.12/java-diff-utils-4.12.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/argonaut/argonaut_2.13/6.3.8/argonaut_2.13-6.3.8.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/chuusai/shapeless_2.13/2.3.9/shapeless_2.13-2.3.9.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/eclipse/xtext/org.eclipse.xtext.xbase.lib/2.28.0/org.eclipse.xtext.xbase.lib-2.28.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/eclipse/xtend/org.eclipse.xtend.lib.macro/2.28.0/org.eclipse.xtend.lib.macro-2.28.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.13/0.4.2/sourcecode_2.13-0.4.2.jar, scala.cli.ScalaCli, bsp, /home/aziz/LearnScalaNow)[0m
+2024.07.30 17:54:15 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/aziz/LearnScalaNow/.metals/bsp.trace.json or /home/aziz/.cache/metals/bsp.trace.json[0m
+2024.07.30 17:54:20 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/jsonrpc4s_2.12/0.1.1/jsonrpc4s_2.12-0.1.1.jar[0m
+2024.07.30 17:54:20 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-persist-core-assembly/1.10.0/zinc-persist-core-assembly-1.10.0.jar[0m
+2024.07.30 17:54:20 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/bloop-shared_2.12/1.5.17-sc-2/bloop-shared_2.12-1.5.17-sc-2.jar[0m
+2024.07.30 17:54:20 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-classpath_2.12/1.10.0/zinc-classpath_2.12-1.10.0.jar[0m
+2024.07.30 17:54:20 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-sbt/compiler-interface/1.10.0/compiler-interface-1.10.0.jar[0m
+2024.07.30 17:54:20 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scalameta/trees_2.12/4.9.5/trees_2.12-4.9.5.jar[0m
+2024.07.30 17:54:26 INFO  Scala CLI: Still downloading:[0m
+2024.07.30 17:54:26 INFO  Scala CLI: https://repo1.maven.org/maven2/org/scala-sbt/zinc-persist-core-assembly/1.10.0/zinc-persist-core-assembly-1.10.0.jar (91.25 %, 2588672 / 2836829)[0m
+2024.07.30 17:54:26 INFO  Scala CLI: https://repo1.maven.org/maven2/org/scala-sbt/zinc-classpath_2.12/1.10.0/zinc-classpath_2.12-1.10.0.jar (68.13 %, 59612 / 87493)[0m
+2024.07.30 17:54:26 INFO  Scala CLI: https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/bloop-shared_2.12/1.5.17-sc-2/bloop-shared_2.12-1.5.17-sc-2.jar (51.30 %, 49152 / 95806)[0m
+2024.07.30 17:54:26 INFO  Scala CLI: https://repo1.maven.org/maven2/org/scalameta/trees_2.12/4.9.5/trees_2.12-4.9.5.jar (39.37 %, 3554698 / 9028627)[0m
+2024.07.30 17:54:26 INFO  Scala CLI: https://repo1.maven.org/maven2/org/scala-sbt/compiler-interface/1.10.0/compiler-interface-1.10.0.jar (28.48 %, 32197 / 113051)[0m
+2024.07.30 17:54:26 INFO  Scala CLI: https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/jsonrpc4s_2.12/0.1.1/jsonrpc4s_2.12-0.1.1.jar (21.81 %, 49152 / 225379)[0m
+2024.07.30 17:54:26 INFO  Scala CLI: [0m
+2024.07.30 17:54:26 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/bloop-shared_2.12/1.5.17-sc-2/bloop-shared_2.12-1.5.17-sc-2.jar[0m
+2024.07.30 17:54:26 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.12/0.4.1/sourcecode_2.12-0.4.1.jar[0m
+2024.07.30 17:54:28 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/jsonrpc4s_2.12/0.1.1/jsonrpc4s_2.12-0.1.1.jar[0m
+2024.07.30 17:54:28 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/io/get-coursier/interface/1.0.13/interface-1.0.13.jar[0m
+2024.07.30 17:54:28 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-classpath_2.12/1.10.0/zinc-classpath_2.12-1.10.0.jar[0m
+2024.07.30 17:54:28 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/bloop-backend_2.12/1.5.17-sc-2/bloop-backend_2.12-1.5.17-sc-2.jar[0m
+2024.07.30 17:54:29 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.12/0.4.1/sourcecode_2.12-0.4.1.jar[0m
+2024.07.30 17:54:29 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/com/thesamet/scalapb/scalapb-runtime_2.12/0.11.15/scalapb-runtime_2.12-0.11.15.jar[0m
+2024.07.30 17:54:29 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-persist-core-assembly/1.10.0/zinc-persist-core-assembly-1.10.0.jar[0m
+2024.07.30 17:54:29 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.4.14/logback-core-1.4.14.jar[0m
+2024.07.30 17:54:29 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/compiler-interface/1.10.0/compiler-interface-1.10.0.jar[0m
+2024.07.30 17:54:29 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scalameta/common_2.12/4.9.5/common_2.12-4.9.5.jar[0m
+2024.07.30 17:54:31 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.4.14/logback-core-1.4.14.jar[0m
+2024.07.30 17:54:31 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scalaz/scalaz-core_2.12/7.3.8/scalaz-core_2.12-7.3.8.jar[0m
+2024.07.30 17:54:34 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/bloop-backend_2.12/1.5.17-sc-2/bloop-backend_2.12-1.5.17-sc-2.jar[0m
+2024.07.30 17:54:34 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/io/github/alexarchambault/libdaemon/libdaemon_2.12/0.0.11/libdaemon_2.12-0.0.11.jar[0m
+2024.07.30 17:54:36 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/io/github/alexarchambault/libdaemon/libdaemon_2.12/0.0.11/libdaemon_2.12-0.0.11.jar[0m
+2024.07.30 17:54:36 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/com/thesamet/scalapb/lenses_2.12/0.11.15/lenses_2.12-0.11.15.jar[0m
+2024.07.30 17:54:37 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/com/thesamet/scalapb/lenses_2.12/0.11.15/lenses_2.12-0.11.15.jar[0m
+2024.07.30 17:54:37 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.4.14/logback-classic-1.4.14.jar[0m
+2024.07.30 17:54:39 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.4.14/logback-classic-1.4.14.jar[0m
+2024.07.30 17:54:39 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/scala-debug-adapter_2.12/4.1.1/scala-debug-adapter_2.12-4.1.1.jar[0m
+2024.07.30 17:54:43 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scalameta/common_2.12/4.9.5/common_2.12-4.9.5.jar[0m
+2024.07.30 17:54:45 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/scala-debug-adapter_2.12/4.1.1/scala-debug-adapter_2.12-4.1.1.jar[0m
+2024.07.30 17:54:45 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scalaz/scalaz-core_2.12/7.3.8/scalaz-core_2.12-7.3.8.jar[0m
+2024.07.30 17:54:49 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/com/thesamet/scalapb/scalapb-runtime_2.12/0.11.15/scalapb-runtime_2.12-0.11.15.jar[0m
+2024.07.30 17:54:54 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/io/get-coursier/interface/1.0.13/interface-1.0.13.jar[0m
+2024.07.30 17:54:57 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:55:00 INFO  Scala CLI: Still downloading:[0m
+2024.07.30 17:55:00 INFO  Scala CLI: https://repo1.maven.org/maven2/org/scalameta/trees_2.12/4.9.5/trees_2.12-4.9.5.jar (88.00 %, 7945610 / 9028627)[0m
+2024.07.30 17:55:00 INFO  Scala CLI: [0m
+2024.07.30 17:55:02 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scalameta/trees_2.12/4.9.5/trees_2.12-4.9.5.jar[0m
+2024.07.30 17:55:02 INFO  Scala CLI: Starting compilation server[0m
+2024.07.30 17:55:05 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.4.2/scala3-compiler_3-3.4.2.pom[0m
+2024.07.30 17:55:11 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.4.2/scala3-compiler_3-3.4.2.pom[0m
+2024.07.30 17:55:11 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/jline/jline-terminal/3.25.1/jline-terminal-3.25.1.pom[0m
+2024.07.30 17:55:11 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-lang/tasty-core_3/3.4.2/tasty-core_3-3.4.2.pom[0m
+2024.07.30 17:55:11 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/jline/jline-terminal-jna/3.25.1/jline-terminal-jna-3.25.1.pom[0m
+2024.07.30 17:55:11 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-sbt/compiler-interface/1.9.6/compiler-interface-1.9.6.pom[0m
+2024.07.30 17:55:11 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.4.2/scala3-library_3-3.4.2.pom[0m
+2024.07.30 17:55:11 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-asm/9.6.0-scala-1/scala-asm-9.6.0-scala-1.pom[0m
+2024.07.30 17:55:11 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/jline/jline-terminal/3.25.1/jline-terminal-3.25.1.pom[0m
+2024.07.30 17:55:11 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-interfaces/3.4.2/scala3-interfaces-3.4.2.pom[0m
+2024.07.30 17:55:12 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-lang/modules/scala-asm/9.6.0-scala-1/scala-asm-9.6.0-scala-1.pom[0m
+2024.07.30 17:55:12 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/jline/jline-reader/3.25.1/jline-reader-3.25.1.pom[0m
+2024.07.30 17:55:12 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/jline/jline-reader/3.25.1/jline-reader-3.25.1.pom[0m
+2024.07.30 17:55:12 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-interfaces/3.4.2/scala3-interfaces-3.4.2.pom[0m
+2024.07.30 17:55:14 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/jline/jline-terminal-jna/3.25.1/jline-terminal-jna-3.25.1.pom[0m
+2024.07.30 17:55:14 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/compiler-interface/1.9.6/compiler-interface-1.9.6.pom[0m
+2024.07.30 17:55:14 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-lang/tasty-core_3/3.4.2/tasty-core_3-3.4.2.pom[0m
+2024.07.30 17:55:14 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.4.2/scala3-library_3-3.4.2.pom[0m
+2024.07.30 17:55:14 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-interface/1.9.8/util-interface-1.9.8.pom[0m
+2024.07.30 17:55:14 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/jline/jline-native/3.25.1/jline-native-3.25.1.pom[0m
+2024.07.30 17:55:15 ERROR Timeout waiting for 'build/initialize' response[0m
+2024.07.30 17:55:15 WARN  Retrying connection to the build server Scala CLI[0m
+2024.07.30 17:55:15 INFO  Running List(/usr/lib/jvm/java-21-openjdk-amd64/bin/java, -cp, /home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/cli_3/1.4.1/cli_3-1.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/case-app_3/2.1.0-M28/case-app_3-2.1.0-M28.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-launcher_2.13/2.1.10/coursier-launcher_2.13-2.1.10.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-proxy-setup/2.1.10/coursier-proxy-setup-2.1.10.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/publish/publish_2.13/0.1.6/publish_2.13-0.1.6.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/jimfs/jimfs/1.3.0/jimfs-1.3.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/jniutils/windows-jni-utils/0.3.3/windows-jni-utils-0.3.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/plokhotnyuk/jsoniter-scala/jsoniter-scala-core_3/2.13.5.2/jsoniter-scala-core_3-2.13.5.2.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/libsodiumjni/0.0.4/libsodiumjni-0.0.4.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/geirsson/metaconfig-typesafe-config_3/0.12.0/metaconfig-typesafe-config_3-0.12.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/ai/kien/python-native-libs_3/0.2.4/python-native-libs_3-0.2.4.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-packager_2.13/0.1.29/scala-packager_2.13-0.1.29.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli-signing/cli_3/0.2.3/cli_3-0.2.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-nop/2.0.13/slf4j-nop-2.0.13.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/client3/core_2.13/3.9.7/core_2.13-3.9.7.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.3/scala3-library_3-3.3.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/build-module_3/1.4.1/build-module_3-1.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/config_3/1.4.1/config_3-1.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/scala3-graal_3/1.4.1/scala3-graal_3-1.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/specification-level_3/1.4.1/specification-level_3-1.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/sourcecode_3/0.4.2/sourcecode_3-0.4.2.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/case-app-annotations_3/2.1.0-M28/case-app-annotations_3-2.1.0-M28.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/case-app-util_3/2.1.0-M28/case-app-util_3-2.1.0-M28.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/scala-cli/tmp/zip-input-stream/0.1.1/zip-input-stream-0.1.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.14/scala-library-2.13.14.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-cache_2.13/2.1.10/coursier-cache_2.13-2.1.10.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-core_2.13/2.1.10/coursier-core_2.13-2.1.10.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/guava/guava/33.2.1-jre/guava-33.2.1-jre.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.14.0/jna-5.14.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna-platform/5.12.1/jna-platform-5.12.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/geirsson/metaconfig-core_3/0.12.0/metaconfig-core_3-0.12.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.1/config-1.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_3/2.12.0/scala-collection-compat_3-2.12.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/commons-io/commons-io/2.15.0/commons-io-2.15.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/cloud/tools/jib-core/0.22.0/jib-core-0.22.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/bouncycastle/bcpg-jdk18on/1.76/bcpg-jdk18on-1.76.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli-signing/shared_3/0.2.3/shared_3-0.2.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-api/2.0.13/slf4j-api-2.0.13.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/model/core_2.13/1.7.9/core_2.13-1.7.9.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/shared/core_2.13/1.3.16/core_2.13-1.3.16.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/shared/ws_2.13/1.3.16/ws_2.13-1.3.16.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/ow2/asm/asm/9.7/asm-9.7.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/java-class-name/java-class-name_3/0.1.3/java-class-name_3-0.1.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalameta/semanticdb-shared_2.13.14/4.9.8/semanticdb-shared_2.13.14-4.9.8.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-native/test-runner_3/0.5.4/test-runner_3-0.5.4.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/os-lib_3/0.10.2/os-lib_3-0.10.2.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/pprint_3/0.9.0/pprint_3-0.9.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-env-nodejs_2.13/1.4.0/scalajs-env-nodejs_2.13-1.4.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-sbt-test-adapter_2.13/1.16.0/scalajs-sbt-test-adapter_2.13-1.16.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/swoval/file-tree-views/2.1.12/file-tree-views-2.1.12.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/zip-input-stream/zip-input-stream/0.1.2/zip-input-stream-0.1.2.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/options_3/1.4.1/options_3-1.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/directives_3/1.4.1/directives_3-1.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/scala-cli-bsp/1.4.1/scala-cli-bsp-1.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/test-runner_3/1.4.1/test-runner_3-1.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/tasty-lib_3/1.4.1/tasty-lib_3-1.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-archiver/4.9.0/plexus-archiver-4.9.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-container-default/2.1.1/plexus-container-default-2.1.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/windows-ansi/windows-ansi/0.0.5/windows-ansi-0.0.5.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-util_2.13/2.1.10/coursier-util_2.13-2.1.10.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/concurrent-reference-hash-map/1.1.0/concurrent-reference-hash-map-1.1.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.13/2.3.0/scala-xml_2.13-2.3.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/errorprone/error_prone_annotations/2.26.1/error_prone_annotations-2.26.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/j2objc/j2objc-annotations/3.0.0/j2objc-annotations-3.0.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/geirsson/metaconfig-pprint_3/0.12.0/metaconfig-pprint_3-0.12.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/paiges-core_3/0.4.3/paiges-core_3-0.4.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.14/scala-reflect-2.13.14.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/cloud/tools/jib-build-plan/0.4.0/jib-build-plan-0.4.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/http-client/google-http-client/1.34.0/google-http-client-1.34.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/http-client/google-http-client-apache-v2/1.34.0/google-http-client-apache-v2-1.34.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/auth/google-auth-library-oauth2-http/0.18.0/google-auth-library-oauth2-http-0.18.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/commons/commons-compress/1.24.0/commons-compress-1.24.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.13.3/jackson-databind-2.13.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.13.3/jackson-datatype-jsr310-2.13.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/bouncycastle/bcprov-jdk18on/1.76/bcprov-jdk18on-1.76.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.3.1/scala3-compiler_3-3.3.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.9.8/scalameta_2.13-4.9.8.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/thesamet/scalapb/scalapb-runtime_2.13/0.11.17/scalapb-runtime_2.13-0.11.17.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-native/tools_3/0.5.4/tools_3-0.5.4.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/sbt/junit-interface/0.13.3/junit-interface-0.13.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/junit/junit/4.13.2/junit-4.13.2.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/geny_3/1.1.0/geny_3-1.1.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/fansi_3/0.5.0/fansi_3-0.5.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-js-envs_2.13/1.4.0/scalajs-js-envs_2.13-1.4.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/bloop-config_2.13/2.0.2/bloop-config_2.13-2.0.2.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/core_3/1.4.1/core_3-1.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/using_directives/1.1.1/using_directives-1.1.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/build-macros_3/1.4.1/build-macros_3-1.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/bsp4j/2.1.1/bsp4j-2.1.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/javax/inject/javax.inject/1/javax.inject-1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/4.0.0/plexus-utils-4.0.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-io/3.4.1/plexus-io-3.4.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/iq80/snappy/snappy/0.4/snappy-0.4.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/tukaani/xz/1.9/xz-1.9.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/luben/zstd-jni/1.5.5-10/zstd-jni-1.5.5-10.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-classworlds/2.6.0/plexus-classworlds-2.6.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/xbean/xbean-reflect/3.7/xbean-reflect-3.7.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.18/jansi-1.18.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/httpcomponents/httpclient/4.5.10/httpclient-4.5.10.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/httpcomponents/httpcore/4.4.12/httpcore-4.4.12.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/opencensus/opencensus-api/0.24.0/opencensus-api-0.24.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/opencensus/opencensus-contrib-http-util/0.24.0/opencensus-contrib-http-util-0.24.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/auto/value/auto-value-annotations/1.6.6/auto-value-annotations-1.6.6.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/auth/google-auth-library-credentials/0.18.0/google-auth-library-credentials-0.18.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/http-client/google-http-client-jackson2/1.32.1/google-http-client-jackson2-1.32.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.13.3/jackson-annotations-2.13.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.13.3/jackson-core-2.13.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-interfaces/3.3.1/scala3-interfaces-3.3.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/tasty-core_3/3.3.1/tasty-core_3-3.3.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-asm/9.5.0-scala-1/scala-asm-9.5.0-scala-1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/compiler-interface/1.3.5/compiler-interface-1.3.5.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-reader/3.19.0/jline-reader-3.19.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal/3.19.0/jline-terminal-3.19.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal-jna/3.19.0/jline-terminal-jna-3.19.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.9.8/parsers_2.13-4.9.8.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scalap/2.13.14/scalap-2.13.14.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/thesamet/scalapb/lenses_2.13/0.11.17/lenses_2.13-0.11.17.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/protobuf/protobuf-java/3.19.6/protobuf-java-3.19.6.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.12.0/scala-collection-compat_2.13-2.12.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-native/nir_3/0.5.4/nir_3-0.5.4.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-native/util_3/0.5.4/util_3-0.5.4.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-logging_2.13/1.1.1/scalajs-logging_2.13-1.1.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/unroll-annotation_2.13/0.1.12/unroll-annotation_2.13-0.1.12.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/bleep/bloop-rifle_2.13/1.5.17-sc-2/bloop-rifle_2.13-1.5.17-sc-2.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-jvm_2.13/2.1.10/coursier-jvm_2.13-2.1.10.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/dependency_3/0.2.3/dependency_3-0.2.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/eclipse/jgit/org.eclipse.jgit/6.8.0.202311291450-r/org.eclipse.jgit-6.8.0.202311291450-r.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-env-jsdom-nodejs_2.13/1.1.0/scalajs-env-jsdom-nodejs_2.13-1.1.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/eclipse/lsp4j/org.eclipse.lsp4j.generator/0.20.1/org.eclipse.lsp4j.generator-0.20.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/eclipse/lsp4j/org.eclipse.lsp4j.jsonrpc/0.20.1/org.eclipse.lsp4j.jsonrpc-0.20.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/commons-codec/commons-codec/1.16.0/commons-codec-1.16.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/grpc/grpc-context/1.22.1/grpc-context-1.22.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-interface/1.3.0/util-interface-1.3.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalameta/trees_2.13/4.9.8/trees_2.13-4.9.8.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.14/scala-compiler-2.13.14.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/libdaemon/libdaemon_2.13/0.0.11/libdaemon_2.13-0.0.11.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/scala-cli/snailgun/snailgun-core_2.13/0.4.1-sc2/snailgun-core_2.13-0.4.1-sc2.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/argonaut-shapeless_6.3_2.13/1.3.1/argonaut-shapeless_6.3_2.13-1.3.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier_2.13/2.1.10/coursier_2.13-2.1.10.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-env_2.13/2.1.10/coursier-env_2.13-2.1.10.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/googlecode/javaewah/JavaEWAH/1.2.3/JavaEWAH-1.2.3.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/eclipse/xtend/org.eclipse.xtend.lib/2.28.0/org.eclipse.xtend.lib-2.28.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalameta/common_2.13/4.9.8/common_2.13-4.9.8.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/github/java-diff-utils/java-diff-utils/4.12/java-diff-utils-4.12.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/io/argonaut/argonaut_2.13/6.3.8/argonaut_2.13-6.3.8.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/chuusai/shapeless_2.13/2.3.9/shapeless_2.13-2.3.9.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/eclipse/xtext/org.eclipse.xtext.xbase.lib/2.28.0/org.eclipse.xtext.xbase.lib-2.28.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/org/eclipse/xtend/org.eclipse.xtend.lib.macro/2.28.0/org.eclipse.xtend.lib.macro-2.28.0.jar:/home/aziz/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.13/0.4.2/sourcecode_2.13-0.4.2.jar, scala.cli.ScalaCli, bsp, /home/aziz/LearnScalaNow)[0m
+2024.07.30 17:55:15 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/aziz/LearnScalaNow/.metals/bsp.trace.json or /home/aziz/.cache/metals/bsp.trace.json[0m
+2024.07.30 17:55:21 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-interface/1.9.8/util-interface-1.9.8.pom[0m
+2024.07.30 17:55:21 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/jline/jline-native/3.25.1/jline-native-3.25.1.pom[0m
+2024.07.30 17:55:22 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:55:22 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:55:22 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-interface/1.9.8/util-interface-1.9.8.pom[0m
+2024.07.30 17:55:22 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/jline/jline-native/3.25.1/jline-native-3.25.1.pom[0m
+2024.07.30 17:55:22 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-interfaces/3.4.2/scala3-interfaces-3.4.2.jar[0m
+2024.07.30 17:55:22 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.4.2/scala3-library_3-3.4.2.jar[0m
+2024.07.30 17:55:22 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-sbt/compiler-interface/1.9.6/compiler-interface-1.9.6.jar[0m
+2024.07.30 17:55:22 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/jline/jline-native/3.25.1/jline-native-3.25.1.jar[0m
+2024.07.30 17:55:22 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/jline/jline-terminal-jna/3.25.1/jline-terminal-jna-3.25.1.jar[0m
+2024.07.30 17:55:22 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-interface/1.9.8/util-interface-1.9.8.jar[0m
+2024.07.30 17:55:22 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-interfaces/3.4.2/scala3-interfaces-3.4.2.jar[0m
+2024.07.30 17:55:22 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.4.2/scala3-compiler_3-3.4.2.jar[0m
+2024.07.30 17:55:23 WARN  no build target for: /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 17:55:22 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:55:23 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:55:22 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-interface/1.9.8/util-interface-1.9.8.jar[0m
+2024.07.30 17:55:22 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/jline/jline-terminal/3.25.1/jline-terminal-3.25.1.jar[0m
+2024.07.30 17:55:24 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/compiler-interface/1.9.6/compiler-interface-1.9.6.jar[0m
+2024.07.30 17:55:24 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-lang/tasty-core_3/3.4.2/tasty-core_3-3.4.2.jar[0m
+2024.07.30 17:55:24 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-lang/tasty-core_3/3.4.2/tasty-core_3-3.4.2.jar[0m
+2024.07.30 17:55:24 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-asm/9.6.0-scala-1/scala-asm-9.6.0-scala-1.jar[0m
+2024.07.30 17:55:24 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/jline/jline-terminal-jna/3.25.1/jline-terminal-jna-3.25.1.jar[0m
+2024.07.30 17:55:24 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/jline/jline-reader/3.25.1/jline-reader-3.25.1.jar[0m
+2024.07.30 17:55:24 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/jline/jline-terminal/3.25.1/jline-terminal-3.25.1.jar[0m
+2024.07.30 17:55:26 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/jline/jline-native/3.25.1/jline-native-3.25.1.jar[0m
+2024.07.30 17:55:26 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/jline/jline-reader/3.25.1/jline-reader-3.25.1.jar[0m
+2024.07.30 17:55:26 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-lang/modules/scala-asm/9.6.0-scala-1/scala-asm-9.6.0-scala-1.jar[0m
+2024.07.30 17:55:32 INFO  Scala CLI: Still downloading:[0m
+2024.07.30 17:55:32 INFO  Scala CLI: https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.4.2/scala3-library_3-3.4.2.jar (64.27 %, 819200 / 1274597)[0m
+2024.07.30 17:55:32 INFO  Scala CLI: https://repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.4.2/scala3-compiler_3-3.4.2.jar (17.28 %, 3597044 / 20817018)[0m
+2024.07.30 17:55:32 INFO  Scala CLI: [0m
+2024.07.30 17:55:37 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.4.2/scala3-library_3-3.4.2.jar[0m
+2024.07.30 17:55:38 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:55:38 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:55:38 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:55:39 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:55:41 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:55:41 INFO  no build target found for /home/aziz/LearnScalaNow/helloword.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.30 17:55:42 INFO  Scala CLI: Still downloading:[0m
+2024.07.30 17:55:42 INFO  Scala CLI: https://repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.4.2/scala3-compiler_3-3.4.2.jar (33.96 %, 7070452 / 20817018)[0m
+2024.07.30 17:55:42 INFO  Scala CLI: [0m
+2024.07.30 17:55:48 INFO  Scala CLI: Still downloading:[0m
+2024.07.30 17:55:48 INFO  Scala CLI: https://repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.4.2/scala3-compiler_3-3.4.2.jar (50.97 %, 10609396 / 20817018)[0m
+2024.07.30 17:55:48 INFO  Scala CLI: [0m
+2024.07.30 17:55:54 INFO  Scala CLI: Still downloading:[0m
+2024.07.30 17:55:54 INFO  Scala CLI: https://repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.4.2/scala3-compiler_3-3.4.2.jar (69.22 %, 14410484 / 20817018)[0m
+2024.07.30 17:55:54 INFO  Scala CLI: [0m
+2024.07.30 17:56:00 INFO  Scala CLI: Still downloading:[0m
+2024.07.30 17:56:00 INFO  Scala CLI: https://repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.4.2/scala3-compiler_3-3.4.2.jar (88.27 %, 18375412 / 20817018)[0m
+2024.07.30 17:56:00 INFO  Scala CLI: [0m
+2024.07.30 17:56:06 INFO  Scala CLI: Still downloading:[0m
+2024.07.30 17:56:06 INFO  Scala CLI: https://repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.4.2/scala3-compiler_3-3.4.2.jar (96.22 %, 20030196 / 20817018)[0m
+2024.07.30 17:56:06 INFO  Scala CLI: [0m
+2024.07.30 17:56:09 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.4.2/scala3-compiler_3-3.4.2.jar[0m
+2024.07.30 17:56:09 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-sbt-bridge/3.4.2/scala3-sbt-bridge-3.4.2.pom[0m
+2024.07.30 17:56:09 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-sbt-bridge/3.4.2/scala3-sbt-bridge-3.4.2.pom[0m
+2024.07.30 17:56:09 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-sbt-bridge/3.4.2/scala3-sbt-bridge-3.4.2.jar[0m
+2024.07.30 17:56:09 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-sbt-bridge/3.4.2/scala3-sbt-bridge-3.4.2.jar[0m
+2024.07.30 17:56:09 INFO  Scala CLI: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.4.2/scala3-library_3-3.4.2-sources.jar[0m
+2024.07.30 17:56:10 INFO  Scala CLI: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.4.2/scala3-library_3-3.4.2-sources.jar[0m
+2024.07.30 17:56:11 INFO  Connected to Scala CLI server v1.4.1[0m
+2024.07.30 17:56:13 INFO  compiling learnscalanow_f4dd477a3a (1 scala source)[0m
+2024.07.30 17:56:16 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/lib/src.zip. Java symbols will not be available.[0m
+2024.07.30 17:56:16 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/lib/src.zip. Java symbols will not be available.[0m
+2024.07.30 17:56:16 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/lib/src.zip. Java symbols will not be available.[0m
+2024.07.30 17:56:18 INFO  time: compiled LearnScalaNow_f4dd477a3a in 5.51s[0m
+2024.07.30 17:56:18 INFO  compiling learnscalanow_f4dd477a3a (1 scala source)[0m
+2024.07.30 17:56:20 INFO  time: indexed workspace in 8.16s[0m
+2024.07.30 17:56:20 INFO  time: compiled LearnScalaNow_f4dd477a3a in 1.58s[0m
+2024.07.30 17:57:01 INFO  compiling learnscalanow_f4dd477a3a (1 scala source)[0m
+2024.07.30 17:57:01 INFO  time: compiled LearnScalaNow_f4dd477a3a in 0.42s[0m
+2024.07.30 17:57:43 INFO  Scala CLI started for /home/aziz/LearnScalaNow[0m
+2024.07.30 17:57:43 WARN  no build tool detected in workspace '/home/aziz/LearnScalaNow'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2024.07.30 17:57:43 WARN  Build server is not auto-connectable.[0m
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 575
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 581
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 579
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 578
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 580
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 586
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 583
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 588
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 585
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 584
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 587
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 592
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 589
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 590
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 593
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 591
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 596
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 594
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 595
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 597
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 601
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 602
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 603
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 600
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 607
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 604
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 608
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 609
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 598
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 616
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 613
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 620
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 622
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 614
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 618
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 615
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 619
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 623
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 624
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 625
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 626
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 617
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 628
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 631
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 627
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 629
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 630
+2024.07.30 17:57:43 INFO  file:///home/aziz/LearnScalaNow/helloword.scala:4:9: stale bloop error: Declaration of method main not allowed here: only classes can have declared but undefined members
+    def main(args: Array[String]): Unit 
+        ^[0m
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 633
+Jul 30, 2024 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 634
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 635
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 636
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 637
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 638
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 639
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 640
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 641
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 642
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 644
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 645
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 646
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 647
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 652
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 653
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 654
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 655
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 656
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 657
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 658
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 659
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 660
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 661
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 662
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 664
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 666
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 667
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 668
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 669
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 671
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 672
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 673
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 674
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 675
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 676
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 677
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 678
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 679
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 680
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 681
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 682
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 683
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 684
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 685
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 686
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 687
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 688
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 689
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 690
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 691
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 692
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 693
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 694
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 695
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 696
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 697
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 698
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 699
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 700
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 701
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 702
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 703
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 704
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 705
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 706
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 707
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 708
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 709
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 710
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 711
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 712
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 713
+2024.07.30 17:57:44 INFO  compiling learnscalanow_f4dd477a3a (1 scala source)[0m
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 714
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 715
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 716
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 717
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 718
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 719
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 720
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 721
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 722
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 723
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 724
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 725
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 726
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 727
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 728
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 729
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 730
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 731
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 732
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 733
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 734
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 735
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 736
+Jul 30, 2024 5:57:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 737
+2024.07.30 17:57:45 INFO  time: compiled LearnScalaNow_f4dd477a3a in 1.12s[0m
+2024.07.30 17:57:49 WARN  Could not find semantic tokens for: file:///home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:10:17 WARN  Could not find semantic tokens for: file:///home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:10:19 INFO  compiling learnscalanow_f4dd477a3a (1 scala source)[0m
+2024.07.30 18:10:21 INFO  time: compiled LearnScalaNow_f4dd477a3a in 1.7s[0m
+Jul 30, 2024 6:20:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 880
+Jul 30, 2024 6:20:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 953
+Jul 30, 2024 6:20:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 970
+2024.07.30 18:20:36 INFO  compiling learnscalanow_f4dd477a3a (1 scala source)[0m
+2024.07.30 18:20:36 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:20:36 INFO  time: compiled LearnScalaNow_f4dd477a3a in 0.68s[0m
+2024.07.30 18:22:31 INFO  compiling learnscalanow_f4dd477a3a (1 scala source)[0m
+2024.07.30 18:22:31 INFO  time: compiled LearnScalaNow_f4dd477a3a in 0.68s[0m
+2024.07.30 18:22:59 INFO  compiling learnscalanow_f4dd477a3a (1 scala source)[0m
+2024.07.30 18:22:59 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:22:59 INFO  time: compiled LearnScalaNow_f4dd477a3a in 0.44s[0m
+Jul 30, 2024 6:23:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1268
+2024.07.30 18:23:22 INFO  compiling learnscalanow_f4dd477a3a (1 scala source)[0m
+2024.07.30 18:23:22 INFO  time: compiled LearnScalaNow_f4dd477a3a in 0.43s[0m
+Jul 30, 2024 6:23:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1402
+2024.07.30 18:23:26 INFO  compiling learnscalanow_f4dd477a3a (1 scala source)[0m
+2024.07.30 18:23:27 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:23:26 INFO  time: compiled LearnScalaNow_f4dd477a3a in 0.53s[0m
+2024.07.30 18:23:50 INFO  compiling learnscalanow_f4dd477a3a (1 scala source)[0m
+2024.07.30 18:23:50 INFO  time: compiled LearnScalaNow_f4dd477a3a in 0.36s[0m
+Jul 30, 2024 6:24:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1535
+Jul 30, 2024 6:24:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1537
+Jul 30, 2024 6:24:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1616
+Jul 30, 2024 6:24:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1697
+Jul 30, 2024 6:25:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1761
+2024.07.30 18:27:08 INFO  compiling learnscalanow_f4dd477a3a (1 scala source)[0m
+2024.07.30 18:27:08 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:27:10 INFO  time: compiled LearnScalaNow_f4dd477a3a in 2.22s[0m
+2024.07.30 18:27:11 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:27:37 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:27:52 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:27:59 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:27:59 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:28:07 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:28:08 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:28:09 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:28:10 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:28:11 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:28:11 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:28:12 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:28:13 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:28:13 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:28:14 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:28:14 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:28:15 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:28:15 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:28:22 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:28:26 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:28:28 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:28:28 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:28:28 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:28:29 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+Jul 30, 2024 6:28:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2324
+2024.07.30 18:28:29 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:28:30 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:28:30 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:28:47 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:28:48 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+Jul 30, 2024 6:28:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.StringIndexOutOfBoundsException: Range [401, 409) out of bounds for length 398
+java.util.concurrent.CompletionException: java.lang.StringIndexOutOfBoundsException: Range [401, 409) out of bounds for length 398
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2194)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.StringIndexOutOfBoundsException: Range [401, 409) out of bounds for length 398
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:55)
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:52)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:213)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:210)
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckFromToIndex(Preconditions.java:112)
+	at java.base/jdk.internal.util.Preconditions.checkFromToIndex(Preconditions.java:349)
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4865)
+	at java.base/java.lang.String.substring(String.java:2834)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.getIndentForPos(FlatMapToForComprehensionCodeAction.scala:679)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$4(FlatMapToForComprehensionCodeAction.scala:59)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$3(FlatMapToForComprehensionCodeAction.scala:55)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$2(FlatMapToForComprehensionCodeAction.scala:54)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$1(FlatMapToForComprehensionCodeAction.scala:53)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+2024.07.30 18:28:48 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:28:50 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:28:54 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:28:55 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:28:56 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:28:59 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:28:59 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:28:59 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:28:59 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:29:00 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:29:01 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:29:06 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:29:07 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:29:10 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:29:11 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:29:11 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:29:13 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:29:13 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:29:15 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:29:16 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:29:17 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:29:18 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:29:24 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:29:37 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:29:41 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:29:55 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:29:59 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:29:59 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:30:00 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:30:01 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:30:03 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:30:06 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:30:07 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:30:08 INFO  compiling learnscalanow_f4dd477a3a (1 scala source)[0m
+2024.07.30 18:30:08 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:30:08 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:30:08 INFO  time: compiled LearnScalaNow_f4dd477a3a in 0.76s[0m
+Jul 30, 2024 6:30:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2681
+Jul 30, 2024 6:30:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2701
+Jul 30, 2024 6:30:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2735
+Jul 30, 2024 6:30:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2806
+Jul 30, 2024 6:30:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2807
+2024.07.30 18:31:27 INFO  compiling learnscalanow_f4dd477a3a (1 scala source)[0m
+2024.07.30 18:31:29 INFO  time: compiled LearnScalaNow_f4dd477a3a in 1.54s[0m
+2024.07.30 18:31:53 INFO  compiling learnscalanow_f4dd477a3a (1 scala source)[0m
+2024.07.30 18:31:53 INFO  time: compiled LearnScalaNow_f4dd477a3a in 0.63s[0m
+2024.07.30 18:31:56 INFO  compiling learnscalanow_f4dd477a3a (1 scala source)[0m
+2024.07.30 18:31:57 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:31:56 INFO  time: compiled LearnScalaNow_f4dd477a3a in 0.52s[0m
+2024.07.30 18:32:21 INFO  compiling learnscalanow_f4dd477a3a (1 scala source)[0m
+2024.07.30 18:32:21 INFO  time: compiled LearnScalaNow_f4dd477a3a in 0.16s[0m
+2024.07.30 18:32:29 INFO  compiling learnscalanow_f4dd477a3a (1 scala source)[0m
+2024.07.30 18:32:29 INFO  time: compiled LearnScalaNow_f4dd477a3a in 0.58s[0m
+2024.07.30 18:33:26 INFO  compiling learnscalanow_f4dd477a3a (1 scala source)[0m
+2024.07.30 18:33:26 INFO  time: compiled LearnScalaNow_f4dd477a3a in 0.52s[0m
+2024.07.30 18:33:53 INFO  compiling learnscalanow_f4dd477a3a (1 scala source)[0m
+2024.07.30 18:33:53 INFO  time: compiled LearnScalaNow_f4dd477a3a in 0.57s[0m
+2024.07.30 18:34:27 INFO  compiling learnscalanow_f4dd477a3a (1 scala source)[0m
+2024.07.30 18:34:27 WARN  Could not load snapshot text for /home/aziz/LearnScalaNow/helloword.scala[0m
+2024.07.30 18:34:27 INFO  time: compiled LearnScalaNow_f4dd477a3a in 0.54s[0m
